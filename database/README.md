@@ -34,3 +34,18 @@ Demonstrar conhecimentos em:
 - tabelas de relacionamento (N:N)
 - relacionamentos entre tabelas
 - consultas analíticas
+
+
+
+
+
+## Diagrama do Banco
+
+![Diagrama](docs/diagrama_banco.png)
+
+
+
+
+
+
+
