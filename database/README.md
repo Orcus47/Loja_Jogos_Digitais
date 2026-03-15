@@ -25,5 +25,12 @@ Demonstrar conhecimentos em:
 - relacionamentos entre tabelas
 - consultas analíticas
 - SQL
+
+- Este projeto utiliza:
+
+- chaves primárias
+- chaves estrangeiras
+- índices para otimização
+- tabelas de relacionamento (N:N)
 - relacionamentos entre tabelas
 - consultas analíticas
